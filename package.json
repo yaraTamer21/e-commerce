@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "mdb-react-ui-kit": "^4.0.0",
-    "react-redux": "^8.0.2",
-    "redux": "^4.2.0"
-  }
-}
